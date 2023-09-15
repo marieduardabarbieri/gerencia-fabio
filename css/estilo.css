@@ -13,7 +13,6 @@ body{
 .item{
     width: 30%;
     padding: 20px ;
-    margin: 20px;
     border: 1px solid black ;
     background-color: rgba(202, 206, 254, 0.734);
 }
