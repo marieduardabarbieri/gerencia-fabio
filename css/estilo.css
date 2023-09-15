@@ -21,3 +21,8 @@ body{
 img{
     width: 100%;
 }
+
+#icon{
+    width: 20%;
+    border-radius: 20px;
+}
