@@ -5,5 +5,13 @@ body{
 
 .container{
     display: grid;
-    grid-template-columns: auto auto;
+    border: 1px solid black ;
+}
+
+.grid-template-columns {
+	grid-template-columns: 200px 200px;
+}
+
+.grid-template-columns-3 {
+	grid-template-columns: 1fr 2fr 1fr;
 }
