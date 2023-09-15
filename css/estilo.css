@@ -6,12 +6,13 @@ body{
 .container{
     display: grid;
     border: 1px solid black ;
+    grid-template-columns: auto auto;
 }
 
-.grid-template-columns {
-	grid-template-columns: 200px 200px;
-}
+.item{
+    width: 20%;
+    padding: 20px ;
+    margin: 20px;
+    border: 1px solid black ;
 
-.grid-template-columns-3 {
-	grid-template-columns: 1fr 2fr 1fr;
 }
