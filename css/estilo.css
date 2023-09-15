@@ -30,3 +30,7 @@ img{
 .imgCriador{
     display: inline-block
 }
+
+#fotoCard{
+    border-radius: 4px;
+}
