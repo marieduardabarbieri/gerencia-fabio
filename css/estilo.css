@@ -14,6 +14,7 @@ body{
     padding: 30px ;
     border: 1px solid black ;
     background-color: rgba(254, 229, 202, 0.734);
+    border-radius: 1px;
 }
 
 img{
@@ -23,7 +24,7 @@ img{
 
 #icon{
     width: 10%;
-    border-radius: 50px;
+    border-radius: 50%;
     margin-right: 6px;
 }
 
