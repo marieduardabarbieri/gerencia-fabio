@@ -2,7 +2,16 @@ body{
     padding: 0px;
     margin: 0px;
 }
+.titulo{
+    margin: 50px 0px 50px 20px;
+    font-size: 30px;
+    color: rgb(81, 45, 0);
+}
 
+#hrTitulo{
+    color: bisque;
+    height: 3px;
+}
 .container{
     display: grid;
     grid-template-columns:  auto auto auto;
