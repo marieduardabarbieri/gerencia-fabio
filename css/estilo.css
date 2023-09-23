@@ -4,14 +4,11 @@ body{
 }
 
 .titulo{
-    margin: 50px 0px 50px 20px;
-    font-size: 30px;
-    color: rgb(81, 45, 0);
+    margin: 50px 0px 30px 50px;
+    font-size: 25px;
 }
-
-#hrTitulo{
-    color: bisque;
-    height: 3px;
+.titulo h1{
+    color: rgb(82, 47, 3);
 }
 
 .container{
